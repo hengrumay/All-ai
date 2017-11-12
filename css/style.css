@@ -771,7 +771,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 100%;  /* 300px; */
+  height: 50%;  /* 300px; */
   float: left;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -779,7 +779,7 @@ p {
 }
 @media screen and (max-width: 1200px) {
   #fh5co-gallery .fh5co-item {
-    height: 100%;  /* 200px; */
+    height: 50%;  /* 200px; */
   }
 }
 @media screen and (max-width: 768px) {
