@@ -771,7 +771,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 300px;  /* 300px; */
+  height: 50%;  /* 300px; */
   float: left;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -779,7 +779,7 @@ p {
 }
 @media screen and (max-width: 1200px) {
   #fh5co-gallery .fh5co-item {
-    height: 50%;  /* 200px; */
+    height: 200px;  /* 200px; */
   }
 }
 @media screen and (max-width: 768px) {
@@ -809,7 +809,7 @@ p {
 #fh5co-gallery .fh5co-item .fh5co-copy {
   z-index: 3;
   position: relative;
-  height: 30%;  /* 300px; */
+  height: 400px;  /* 300px; */
   display: table;
   text-align: center;
   width: 100%;
@@ -821,7 +821,7 @@ p {
 }
 #fh5co-gallery .fh5co-item .fh5co-copy > .fh5co-copy-inner {
   width: 100%;
-  height: 30%; /* 300px; */
+  height: 400px; /* 300px; */
   display: table-cell;
   vertical-align: middle;
 }
