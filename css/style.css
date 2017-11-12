@@ -771,7 +771,7 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 300px;
+  height: 900px; ##300px
   float: left;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -809,7 +809,7 @@ p {
 #fh5co-gallery .fh5co-item .fh5co-copy {
   z-index: 3;
   position: relative;
-  height: 300px;
+  height: 900px; ##300px
   display: table;
   text-align: center;
   width: 100%;
