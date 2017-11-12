@@ -799,6 +799,13 @@ p {
     padding: 0; /*NA%;*/
   }
 }
+@media screen and (max-width: 360px) {
+  #fh5co-gallery .fh5co-item {
+    width: 100%; /*100%;*/
+    height: 400px; /*NA%;*/
+    padding: 0; /*NA%;*/
+  }
+}
 #fh5co-gallery .fh5co-item .fh5co-overlay {
   position: absolute;
   top: 0;
